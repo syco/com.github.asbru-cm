@@ -1,4 +1,4 @@
 *.flatpak
 /.flatpak-builder
 /build-dir
-/repo.net.asbru-cm.flatpak
+/repo.com.github.asbru-cm
